@@ -1,5 +1,5 @@
 https://learn.cyberexam.io/
-Windows Users And Groups
+1-Windows Users And Groups
 ************************  Final Quiz********************************************
 What command would you use to create a new user account with the username: cyber and the password: cyberexam?
 net user cyber cyberexam /add
@@ -7,9 +7,24 @@ True or False: In Windows, a user account can belong to multiple user groups sim
 True
 Which command is used to list all the groups that a user belongs to in Windows?
  net user
+2-Windows Network Settings
+********************** Final Quiz **************************************
+What does the "ipconfig /all" command allow you to do?
+ Assign an IP address
+ Update DNS settings
+ Request an IP address from DHCP
+ Retrieve detailed network connection information
+What is the purpose of the "nslookup" command?
+ Display network connection information
+ Set a static IP address
+ Show DNS information
+ Disable the Windows firewall
+True or False: The "netstat" command is used to display network connection information and statistics on a local machine.
+True
+True or False: The "ipconfig /flushdns" command is used for transferring DNS zones.
+False
 
-
-Windows Commands 
+3-Windows Commands 
 ************** Final Quiz *************************************************
 What is the command used to display the contents of a text file in the Windows command prompt?
 type
