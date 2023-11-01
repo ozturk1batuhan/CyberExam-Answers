@@ -1,4 +1,13 @@
 https://learn.cyberexam.io/
+Windows Users And Groups
+************************  Final Quiz********************************************
+What command would you use to create a new user account with the username: cyber and the password: cyberexam?
+net user cyber cyberexam /add
+True or False: In Windows, a user account can belong to multiple user groups simultaneously.
+True
+Which command is used to list all the groups that a user belongs to in Windows?
+ net user
+
 
 Windows Commands 
 ************** Final Quiz *************************************************
